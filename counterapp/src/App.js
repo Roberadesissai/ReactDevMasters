@@ -1,3 +1,5 @@
+//CounterApp - A simple project to understand state management by building a counter that increments, decrements, and resets.
+
 import React, {useState} from "react";
 import './App.css';
 
